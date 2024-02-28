@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blue; 
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+}
+main{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+
+}
+form{
+    width: 100%;
+    height: 80vh;
+    background-color: yellow;
+    margin-top: 50px;
+    position: relative;
+    padding: 0px 30px 15px 30px;
+}
+input{
+    border-radius: 6px;
+    width: 40%;
+}
+
